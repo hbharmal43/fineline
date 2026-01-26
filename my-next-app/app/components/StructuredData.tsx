@@ -12,7 +12,7 @@ export default function StructuredData() {
       "addressCountry": "IN",
       "addressRegion": "Gujarat"
     },
-    "telephone": "+91-98765-43210",
+    "telephone": "+91-70961-10104",
     "email": "info@fineliness.com",
     "priceRange": "₹₹",
     "areaServed": [

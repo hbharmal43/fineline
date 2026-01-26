@@ -27,10 +27,10 @@ export default function ServicesPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             {/* Wedding Services */}
             <div className="bg-white rounded-2xl border border-fss-neutral-200 overflow-hidden shadow-lg hover:shadow-2xl transition-shadow">
-              <div 
+              <div
                 className="h-64 bg-cover bg-center"
-                style={{ 
-                  backgroundImage: `linear-gradient(rgba(245, 166, 35, 0.3), rgba(245, 166, 35, 0.2)), url('https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800')` 
+                style={{
+                  backgroundImage: `linear-gradient(rgba(245, 166, 35, 0.3), rgba(245, 166, 35, 0.2)), url('https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800')`
                 }}
               />
               <div className="p-8">
@@ -41,7 +41,7 @@ export default function ServicesPage() {
                   <h2 className="text-2xl font-black text-fss-neutral-900">Wedding Equipment Rental</h2>
                 </div>
                 <p className="text-fss-secondary mb-6 leading-relaxed">
-                  Make your special day unforgettable with our premium wedding AV packages. From traditional ceremonies 
+                  Make your special day unforgettable with our premium wedding AV packages. From traditional ceremonies
                   to modern celebrations, we provide complete sound, lighting, and visual solutions.
                 </p>
                 <h3 className="font-bold text-fss-neutral-900 mb-3">What's Included:</h3>
@@ -72,10 +72,10 @@ export default function ServicesPage() {
 
             {/* Corporate Services */}
             <div className="bg-white rounded-2xl border border-fss-neutral-200 overflow-hidden shadow-lg hover:shadow-2xl transition-shadow">
-              <div 
+              <div
                 className="h-64 bg-cover bg-center"
-                style={{ 
-                  backgroundImage: `linear-gradient(rgba(245, 166, 35, 0.3), rgba(245, 166, 35, 0.2)), url('https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800')` 
+                style={{
+                  backgroundImage: `linear-gradient(rgba(245, 166, 35, 0.3), rgba(245, 166, 35, 0.2)), url('https://images.unsplash.com/photo-1505373877841-8d25f7d46678?q=80&w=800')`
                 }}
               />
               <div className="p-8">
@@ -86,7 +86,7 @@ export default function ServicesPage() {
                   <h2 className="text-2xl font-black text-fss-neutral-900">Corporate Event Solutions</h2>
                 </div>
                 <p className="text-fss-secondary mb-6 leading-relaxed">
-                  Professional AV solutions for conferences, seminars, product launches, and business meetings. 
+                  Professional AV solutions for conferences, seminars, product launches, and business meetings.
                   Ensure your corporate events run smoothly with our reliable equipment and expert support.
                 </p>
                 <h3 className="font-bold text-fss-neutral-900 mb-3">What's Included:</h3>
@@ -137,7 +137,7 @@ export default function ServicesPage() {
               </div>
               <h3 className="text-xl font-bold text-fss-neutral-900 mb-3">Delivery & Setup</h3>
               <p className="text-fss-secondary text-sm leading-relaxed">
-                Timely delivery and professional installation at your venue. Our team ensures everything is 
+                Timely delivery and professional installation at your venue. Our team ensures everything is
                 properly set up and tested before your event begins.
               </p>
             </div>
@@ -148,7 +148,7 @@ export default function ServicesPage() {
               </div>
               <h3 className="text-xl font-bold text-fss-neutral-900 mb-3">24/7 Technical Support</h3>
               <p className="text-fss-secondary text-sm leading-relaxed">
-                Round-the-clock technical assistance during your event. Our support team is always available 
+                Round-the-clock technical assistance during your event. Our support team is always available
                 to resolve any issues quickly and efficiently.
               </p>
             </div>
@@ -159,7 +159,7 @@ export default function ServicesPage() {
               </div>
               <h3 className="text-xl font-bold text-fss-neutral-900 mb-3">Equipment Operation</h3>
               <p className="text-fss-secondary text-sm leading-relaxed">
-                Optional equipment operation service. Our trained operators can manage all technical aspects, 
+                Optional equipment operation service. Our trained operators can manage all technical aspects,
                 allowing you to focus on your event.
               </p>
             </div>
@@ -208,7 +208,7 @@ export default function ServicesPage() {
               <span className="material-symbols-outlined">arrow_forward</span>
             </Link>
             <a
-              href="tel:+919876543210"
+              href="tel:+917096110104"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
             >
               <span className="material-symbols-outlined">call</span>
