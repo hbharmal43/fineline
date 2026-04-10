@@ -8,10 +8,10 @@ export default function StatsSection() {
   const { ref, isVisible } = useScrollAnimation({ threshold: 0.2 });
 
   const stats = [
-    { number: 25, suffix: '+', label: 'Years of Excellence' },
+    { number: 24, suffix: '+', label: 'Years of Excellence' },
     { number: 5000, suffix: '+', label: 'Events Completed' },
-    { number: 500, suffix: '+', label: 'Premium Equipment' },
-    { number: 99, suffix: '%', label: 'Client Satisfaction' },
+    { number: 500, suffix: '+', label: 'Equipment Units' },
+    { number: 100, suffix: '%', label: 'Client Satisfaction' },
   ];
 
   return (
@@ -24,15 +24,6 @@ export default function StatsSection() {
         <div className="absolute top-0 left-1/4 w-96 h-96 bg-fss-primary rounded-full blur-3xl animate-float" />
         <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-fss-accent rounded-full blur-3xl animate-float" style={{ animationDelay: '1.5s' }} />
       </div>
-
-      {/* Grid Pattern */}
-      <div
-        className="absolute inset-0 opacity-5"
-        style={{
-          backgroundImage: `linear-gradient(rgba(212, 175, 55, 0.3) 1px, transparent 1px), linear-gradient(90deg, rgba(212, 175, 55, 0.3) 1px, transparent 1px)`,
-          backgroundSize: '50px 50px',
-        }}
-      />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <motion.div
@@ -47,8 +38,8 @@ export default function StatsSection() {
               Themselves
             </span>
           </h2>
-          <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Trusted excellence backed by decades of experience
+          <p className="text-xl text-white max-w-2xl mx-auto">
+            Trusted excellence backed by 24+ years of experience in Rajkot & Gujarat
           </p>
         </motion.div>
 
@@ -68,7 +59,7 @@ export default function StatsSection() {
                   duration={2000 + index * 200}
                 />
               </div>
-              <p className="text-gray-300 text-lg font-semibold">
+              <p className="text-white text-lg font-semibold">
                 {stat.label}
               </p>
             </motion.div>

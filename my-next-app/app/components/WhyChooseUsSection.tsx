@@ -8,26 +8,19 @@ import { useInView } from 'react-intersection-observer';
 const features = [
   {
     icon: 'inventory_2',
-    title: 'Premium Equipment Quality',
-    description: 'Top-tier audio-visual equipment maintained to the highest standards for flawless performance at every event.'
+    title: '500+ Professional-Grade Equipment',
+    description: 'Top-tier projectors, LED walls, sound systems & laptops maintained to the highest standards for flawless performance.'
   },
   {
-    icon: 'support_agent',
-    title: 'Real-time Support System',
-    description: 'Our technical team provides immediate assistance throughout your event ensuring everything runs smoothly.'
+    icon: 'local_shipping',
+    title: 'Free Delivery, Setup & Technician',
+    description: 'Full-service rental: we deliver, set up, and provide an on-site technician so you can focus on your event.'
   },
   {
     icon: 'schedule',
-    title: 'Timely Delivery & Setup',
-    description: 'Guaranteed on-time delivery and professional setup by our experienced technical crew.'
+    title: 'Same-Day Availability in Rajkot',
+    description: 'Last-minute event? We offer same-day availability for Rajkot events and next-day delivery across Gujarat.'
   }
-];
-
-const stats = [
-  { number: '4586', label: 'Clients worldwide', icon: '👥' },
-  { number: '8583', label: 'Events completed', icon: '⭐' },
-  { number: '9548', label: 'Equipment pieces', icon: '🎵' },
-  { number: '1236', label: 'Team members', icon: '👨‍💼' }
 ];
 
 export default function WhyChooseUsSection() {
@@ -38,28 +31,27 @@ export default function WhyChooseUsSection() {
 
   return (
     <section ref={ref} className="relative w-full py-20 sm:py-28 bg-gradient-to-b from-white via-fss-neutral-50 to-white overflow-hidden">
-      {/* Decorative Background Elements */}
       <div className="absolute top-0 left-0 w-64 h-64 bg-fss-primary/5 rounded-full blur-3xl" />
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-fss-accent/5 rounded-full blur-3xl" />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
-        {/* Section Header */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
           className="mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-black text-fss-neutral-900 tracking-tight mb-4 max-w-2xl">
-            Powerful features
+          <h2 className="text-4xl sm:text-5xl lg:text-6xl font-black text-fss-neutral-900 tracking-tight mb-4 max-w-3xl">
+            Why Choose
             <br />
-            <span className="text-fss-neutral-900">of event excellence.</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-fss-primary via-fss-primary-light to-fss-accent">
+              Fineline System & Services?
+            </span>
           </h2>
         </motion.div>
 
-        {/* Main Content Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center mb-20">
-          {/* Left Side - Features List */}
+          {/* Features List */}
           <div className="flex flex-col justify-center h-full">
             <div className="space-y-8">
               {features.map((feature, index) => (
@@ -70,7 +62,6 @@ export default function WhyChooseUsSection() {
                   transition={{ duration: 0.6, delay: index * 0.1 }}
                   className="group"
                 >
-                  {/* Feature Item */}
                   <div className="flex items-start gap-4">
                     <div className="flex-shrink-0 w-12 h-12 bg-fss-primary/10 rounded-xl flex items-center justify-center group-hover:bg-fss-primary/20 transition-colors duration-200">
                       <span className="material-symbols-outlined text-fss-primary text-2xl">
@@ -81,7 +72,7 @@ export default function WhyChooseUsSection() {
                       <h3 className="text-xl font-bold text-fss-neutral-900 mb-2">
                         {feature.title}
                       </h3>
-                      <p className="text-base text-fss-secondary leading-relaxed">
+                      <p className="text-base text-fss-neutral-700 leading-relaxed">
                         {feature.description}
                       </p>
                     </div>
@@ -89,7 +80,7 @@ export default function WhyChooseUsSection() {
                 </motion.div>
               ))}
 
-              {/* CTA Buttons */}
+              {/* CTAs */}
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 animate={inView ? { opacity: 1, y: 0 } : {}}
@@ -100,16 +91,16 @@ export default function WhyChooseUsSection() {
                   href="/equipment"
                   className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-fss-neutral-900 hover:bg-fss-neutral-800 text-white font-semibold rounded-lg transition-all duration-200 group"
                 >
-                  Explore more
+                  Browse Equipment
                   <span className="material-symbols-outlined text-xl group-hover:translate-x-1 transition-transform">
                     arrow_forward
                   </span>
                 </Link>
                 <Link
-                  href="/contact"
+                  href="/packages"
                   className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white hover:bg-fss-neutral-50 text-fss-neutral-900 font-semibold rounded-lg border-2 border-fss-neutral-200 hover:border-fss-neutral-300 transition-all duration-200 group"
                 >
-                  Get a quote
+                  View Packages
                   <span className="material-symbols-outlined text-xl group-hover:translate-x-1 transition-transform">
                     arrow_forward
                   </span>
@@ -118,7 +109,7 @@ export default function WhyChooseUsSection() {
             </div>
           </div>
 
-          {/* Right Side - Image */}
+          {/* Image */}
           <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={inView ? { opacity: 1, scale: 1 } : {}}
@@ -128,16 +119,14 @@ export default function WhyChooseUsSection() {
             <div className="relative w-full h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
                 src="https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=2069"
-                alt="Professional AV equipment setup"
+                alt="Professional AV equipment setup at an event in Gujarat"
                 fill
                 className="object-cover"
               />
-              {/* Overlay gradient */}
               <div className="absolute inset-0 bg-gradient-to-t from-fss-neutral-900/20 to-transparent" />
             </div>
           </motion.div>
         </div>
-
       </div>
     </section>
   );

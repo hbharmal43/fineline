@@ -80,7 +80,7 @@ export default function ServicesSection() {
             </span>
           </h2>
 
-          <p className="text-xl text-fss-secondary max-w-3xl mx-auto leading-relaxed">
+          <p className="text-xl text-fss-neutral-700 max-w-3xl mx-auto leading-relaxed">
             From intimate weddings to grand corporate events, we deliver unmatched audio-visual
             experiences backed by professional expertise across India
           </p>
@@ -140,7 +140,7 @@ export default function ServicesSection() {
                     {service.title}
                   </h3>
 
-                  <p className="text-fss-secondary mb-6 leading-relaxed">
+                  <p className="text-fss-neutral-700 mb-6 leading-relaxed">
                     {service.description}
                   </p>
 
@@ -218,7 +218,7 @@ export default function ServicesSection() {
                     </span>
                   </h3>
 
-                  <p className="text-xl text-gray-300 mb-8 leading-relaxed">
+                  <p className="text-xl text-white mb-8 leading-relaxed">
                     With 25 years of excellence serving clients across India, we've perfected the art
                     of delivering exceptional audio-visual experiences that exceed expectations.
                   </p>
@@ -228,7 +228,7 @@ export default function ServicesSection() {
                       <div className="text-3xl font-black mb-2 text-transparent bg-clip-text bg-gradient-to-r from-fss-primary to-fss-accent">
                         Best Value
                       </div>
-                      <div className="text-sm text-gray-400 font-medium">
+                      <div className="text-sm text-white font-medium">
                         Competitive pricing without compromising quality
                       </div>
                     </div>
@@ -236,7 +236,7 @@ export default function ServicesSection() {
                       <div className="text-3xl font-black mb-2 text-transparent bg-clip-text bg-gradient-to-r from-fss-primary to-fss-accent">
                         Premium Only
                       </div>
-                      <div className="text-sm text-gray-400 font-medium">
+                      <div className="text-sm text-white font-medium">
                         Latest, top-tier equipment exclusively
                       </div>
                     </div>
@@ -276,7 +276,7 @@ export default function ServicesSection() {
                       <span className="material-symbols-outlined text-white text-3xl">{badge.icon}</span>
                     </div>
                     <div className="text-xl font-bold text-white mb-2">{badge.title}</div>
-                    <div className="text-sm text-gray-400 font-medium">{badge.desc}</div>
+                    <div className="text-sm text-white font-medium">{badge.desc}</div>
                   </motion.div>
                 ))}
               </motion.div>

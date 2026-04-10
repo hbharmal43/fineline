@@ -2,13 +2,13 @@ import { MetadataRoute } from 'next';
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Fineline System & Services - Premier AV Equipment Rental',
-    short_name: 'FSS AV Rental',
-    description: 'Gujarat\'s leading audio-visual equipment rental company for weddings, corporate events, and more.',
+    name: 'Fineline System & Services - AV Equipment Rental Rajkot & Gujarat',
+    short_name: 'Fineline AV',
+    description: 'Professional AV equipment rental in Rajkot & Gujarat. Projectors, LED screens, sound systems, laptops on rent with delivery, setup & technician. Since 2001.',
     start_url: '/',
     display: 'standalone',
-    background_color: '#ffffff',
-    theme_color: '#F5A623',
+    background_color: '#020617',
+    theme_color: '#D4AF37',
     icons: [
       {
         src: '/fss-logo.jpg',
@@ -18,4 +18,3 @@ export default function manifest(): MetadataRoute.Manifest {
     ],
   };
 }
-

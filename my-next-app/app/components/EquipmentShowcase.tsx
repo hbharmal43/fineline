@@ -77,7 +77,7 @@ export default function EquipmentShowcase() {
             </span>
           </h2>
 
-          <p className="text-xl text-fss-secondary max-w-3xl mx-auto leading-relaxed">
+          <p className="text-xl text-fss-neutral-700 max-w-3xl mx-auto leading-relaxed">
             State-of-the-art technology backed by expert support, delivering flawless experiences
             from intimate gatherings to grand productions
           </p>
@@ -120,7 +120,7 @@ export default function EquipmentShowcase() {
                       {category.title}
                     </h3>
 
-                    <p className="text-sm text-fss-secondary mb-6 leading-relaxed">
+                    <p className="text-sm text-fss-neutral-700 mb-6 leading-relaxed">
                       {category.description}
                     </p>
 
@@ -170,7 +170,7 @@ export default function EquipmentShowcase() {
             <h3 className="text-2xl font-bold text-fss-neutral-900 mb-3">
               Need Something Specific?
             </h3>
-            <p className="text-fss-secondary mb-6 max-w-2xl">
+            <p className="text-fss-neutral-700 mb-6 max-w-2xl">
               Our comprehensive catalog features over 1000+ premium equipment pieces.
               <br />
               Let us help you find the perfect solution for your event.

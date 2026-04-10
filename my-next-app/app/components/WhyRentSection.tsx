@@ -62,7 +62,7 @@ export default function WhyRentSection() {
               </h3>
 
               {/* Description */}
-              <p className="text-base text-fss-secondary leading-relaxed">
+              <p className="text-base text-fss-neutral-700 leading-relaxed">
                 {benefit.description}
               </p>
             </motion.div>
