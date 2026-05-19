@@ -22,7 +22,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Rajkot',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Rajkot — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent projectors, LED screens, sound systems & laptops in Rajkot. Free delivery & setup. 24+ years experience. Based in Kandoi Bazar. Call +91 98252 14052.',
+    metaDescription: 'Rent projectors, LED screens, sound systems & laptops in Rajkot. Free delivery & setup. 24+ years experience. Based in Kandoi Bazar. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Rajkot',
     intro: `Rajkot is our home. Fineline System & Services has been providing professional AV equipment rental in Rajkot since 2001 from our office at Kandoi Bazar Chowk. As Rajkot's leading AV rental company, we offer free delivery, professional setup, and on-site technician support for all events in the city. Whether you need a projector for a board meeting at a Rajkot hotel, an LED wall for a wedding reception at a party plot on Kalawad Road, or a complete sound system for a college fest, Fineline is Rajkot's most trusted name in AV rental. Our central location in Rajkot means same-day delivery and setup is available for urgent requirements.`,
     deliveryTime: 'Same day (free delivery & setup within Rajkot city)',
@@ -39,7 +39,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Rajkot',
     service: 'Projector on Rent',
     metaTitle: 'Projector on Rent in Rajkot — HD & 4K Projectors from ₹2,000/day | Fineline',
-    metaDescription: 'Rent HD & 4K projectors in Rajkot with free screen, delivery & setup. Starting ₹2,000/day. 24+ years experience. Call +91 98252 14052.',
+    metaDescription: 'Rent HD & 4K projectors in Rajkot with free screen, delivery & setup. Starting ₹2,000/day. 24+ years experience. Call +91 97145 95111.',
     h1: 'Projector on Rent in Rajkot — With Screen, Delivery & Setup',
     intro: `Looking for a projector on rent in Rajkot? Fineline System & Services offers HD and 4K projectors for rent in Rajkot starting from just ₹2,000 per day. Every projector rental in Rajkot includes a free projection screen, professional delivery, and complete setup at your venue. Whether you need a projector for a corporate presentation at a Rajkot hotel, a training session at your office, or a movie screening at a family event, we have the right projector for your needs. Our projectors range from 3000 lumens for small rooms to 7000+ lumens 4K laser projectors for large auditoriums and outdoor events in Rajkot.`,
     deliveryTime: 'Same day (free delivery & setup in Rajkot)',
@@ -56,7 +56,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Rajkot',
     service: 'LED Screen on Rent',
     metaTitle: 'LED Screen & LED Wall on Rent in Rajkot — From ₹100/sqft | Fineline',
-    metaDescription: 'Rent indoor & outdoor LED walls in Rajkot from ₹100/sqft/day. Perfect for weddings, corporate events & exhibitions. Free setup. Call +91 98252 14052.',
+    metaDescription: 'Rent indoor & outdoor LED walls in Rajkot from ₹100/sqft/day. Perfect for weddings, corporate events & exhibitions. Free setup. Call +91 97145 95111.',
     h1: 'LED Screen & LED Wall on Rent in Rajkot',
     intro: `Need an LED screen or LED wall on rent in Rajkot? Fineline System & Services provides high-resolution indoor and outdoor LED walls for weddings, corporate events, exhibitions, and concerts across Rajkot. Our LED walls in Rajkot are available in various sizes from compact 6x4ft displays to massive 12x8ft video walls. LED screen rental in Rajkot is one of our most popular services, especially for wedding receptions where families display pre-wedding photos and videos on stunning LED walls. We also supply LED screens for trade shows at exhibition centers, product launches, and corporate events throughout Rajkot city.`,
     deliveryTime: 'Same day (free delivery & setup in Rajkot)',
@@ -73,7 +73,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Rajkot',
     service: 'Sound System on Rent',
     metaTitle: 'Sound System & PA System on Rent in Rajkot — From ₹1,800/day | Fineline',
-    metaDescription: 'Rent professional PA systems, speakers & microphones in Rajkot from ₹1,800/day. With technician. For weddings, corporate events & more. Call +91 98252 14052.',
+    metaDescription: 'Rent professional PA systems, speakers & microphones in Rajkot from ₹1,800/day. With technician. For weddings, corporate events & more. Call +91 97145 95111.',
     h1: 'Sound System & PA System on Rent in Rajkot',
     intro: `Fineline System & Services provides professional sound systems and PA systems on rent in Rajkot for all types of events. From compact 2-speaker PA systems for small meetings to large 6+ speaker setups for weddings and outdoor events, we have the right sound system for your needs in Rajkot. Every sound system rental in Rajkot includes wireless microphones, a professional mixer, and a trained technician who operates the system throughout your event. We also offer DJ sound systems for sangeet ceremonies, garba nights, and parties in Rajkot. Our sound equipment is regularly maintained and tested to ensure crystal-clear audio at every event.`,
     deliveryTime: 'Same day (free delivery & setup in Rajkot)',
@@ -90,7 +90,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Rajkot',
     service: 'Laptop on Rent',
     metaTitle: 'Laptop on Rent in Rajkot — Business & Bulk Laptops from ₹700/day | Fineline',
-    metaDescription: 'Rent laptops in Rajkot from ₹700/day. Business laptops, MacBooks & bulk orders for exams. Free delivery. 24+ years experience. Call +91 98252 14052.',
+    metaDescription: 'Rent laptops in Rajkot from ₹700/day. Business laptops, MacBooks & bulk orders for exams. Free delivery. 24+ years experience. Call +91 97145 95111.',
     h1: 'Laptop on Rent in Rajkot — Business & Bulk Laptops',
     intro: `Need laptops on rent in Rajkot? Fineline System & Services offers business laptops, premium laptops, and bulk laptop rentals for corporate training, exam centers, and events across Rajkot. Our laptop rental service in Rajkot starts from just ₹700/day for basic laptops and ₹1,000/day for high-performance business laptops. We also cater to bulk laptop requirements in Rajkot — if you need 10 or more laptops for an exam center, training program, or corporate event, we offer special rates starting at ₹500/unit/day. All laptops come pre-configured and ready to use with free delivery anywhere in Rajkot.`,
     deliveryTime: 'Same day (free delivery in Rajkot)',
@@ -107,7 +107,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Ahmedabad',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Ahmedabad — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Ahmedabad. Projectors, LED walls, sound systems & laptops with delivery & setup. Based in Rajkot, serving Ahmedabad. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Ahmedabad. Projectors, LED walls, sound systems & laptops with delivery & setup. Based in Rajkot, serving Ahmedabad. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Ahmedabad',
     intro: `Fineline System & Services delivers professional AV equipment rental in Ahmedabad from our Rajkot headquarters. Ahmedabad, Gujarat's largest city and commercial capital, hosts thousands of corporate events, weddings, and exhibitions every year, and we provide the AV equipment to make them successful. From the bustling Science City area to the elegant banquet halls of SG Highway, from corporate conferences at Ahmedabad's premier hotels to grand Gujarati weddings at farmhouses on the outskirts — we deliver projectors, LED walls, sound systems, and laptops across Ahmedabad with professional setup and on-site technician support. Ahmedabad is approximately 220 km from our Rajkot base, and we schedule next-day delivery for most Ahmedabad events.`,
     deliveryTime: 'Next day delivery (from Rajkot, ~220 km)',
@@ -124,7 +124,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Jamnagar',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Jamnagar — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Jamnagar. Projectors, LED walls, sound systems & laptops with delivery & setup. Same-day available. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Jamnagar. Projectors, LED walls, sound systems & laptops with delivery & setup. Same-day available. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Jamnagar',
     intro: `Jamnagar, the jewel of Saurashtra, is one of our primary service areas for AV equipment rental. Located just 100 km from our Rajkot headquarters, we provide same-day delivery of projectors, LED walls, sound systems, and laptops across Jamnagar city. Fineline System & Services has been serving Jamnagar's corporate sector, wedding families, and educational institutions for over two decades. From corporate events at hotels near Lakhota Lake to grand wedding receptions at party plots on Summair Club Road, from college seminars at educational institutions to product launches at exhibition venues — we bring professional AV equipment directly to your Jamnagar venue with complete setup and technician support.`,
     deliveryTime: 'Same day delivery (~100 km from Rajkot)',
@@ -141,7 +141,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Morbi',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Morbi — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Morbi. Projectors, LED walls, sound systems for ceramic industry events & weddings. Fast delivery from Rajkot. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Morbi. Projectors, LED walls, sound systems for ceramic industry events & weddings. Fast delivery from Rajkot. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Morbi',
     intro: `Morbi, known as the ceramic capital of India, is just 65 km from our Rajkot headquarters, making it one of our fastest delivery zones. Fineline System & Services provides professional AV equipment rental in Morbi for the booming ceramic industry's corporate events, product showcases, and exhibitions, as well as for weddings and social functions. Morbi's ceramic tile manufacturers and exporters frequently need professional AV setups for dealer meets, product launches, and factory visits — and we provide projectors, LED walls, sound systems, and laptops with same-day delivery and setup. For Morbi's vibrant wedding culture, we offer complete LED wall and sound system packages that bring a touch of grandeur to celebrations.`,
     deliveryTime: 'Same day delivery (~65 km from Rajkot)',
@@ -158,7 +158,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Junagadh',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Junagadh — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Junagadh. Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Junagadh. Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Junagadh',
     intro: `Junagadh, the historic city at the foot of Mount Girnar, is well within our service area at approximately 100 km from Rajkot. Fineline System & Services has been providing AV equipment rental in Junagadh for college events at local universities, government seminars, wedding celebrations, and corporate gatherings. Junagadh's growing corporate sector and vibrant educational institutions regularly need professional AV equipment, and we deliver projectors, LED screens, sound systems, and laptops with complete setup. From temple town celebrations to modern corporate conferences at Junagadh's best venues, we bring Rajkot-quality AV equipment directly to your event location in Junagadh.`,
     deliveryTime: 'Same day / Next day (~100 km from Rajkot)',
@@ -175,7 +175,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Bhavnagar',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Bhavnagar — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Bhavnagar. Projectors, LED walls, sound systems with delivery & setup from Rajkot. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Bhavnagar. Projectors, LED walls, sound systems with delivery & setup from Rajkot. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Bhavnagar',
     intro: `Bhavnagar, the cultural capital of Saurashtra, is approximately 170 km from our Rajkot headquarters. Fineline System & Services serves Bhavnagar with professional AV equipment rental for corporate events, weddings, college functions, and exhibitions. Bhavnagar's thriving diamond industry and port-related businesses frequently need AV equipment for dealer meets, conferences, and corporate gatherings. We deliver projectors, LED walls, sound systems, and laptops to Bhavnagar with next-day delivery and provide complete setup and on-site technician support. Bhavnagar's grand wedding culture also drives demand for our LED wall and sound system packages.`,
     deliveryTime: 'Next day delivery (~170 km from Rajkot)',
@@ -183,7 +183,7 @@ const cityPages: Record<string, CityData> = {
     popularVenues: ['Diamond Industry Offices', 'Hotel Conference Halls', 'University Campuses', 'Party Plots', 'Cultural Venues'],
     faq: [
       { question: 'How do you deliver AV equipment to Bhavnagar?', answer: 'We deliver from our Rajkot headquarters to Bhavnagar (~170 km). For planned events, we schedule next-day delivery. Our team arrives early, sets up all equipment, and stays for technical support during your event.' },
-      { question: 'What is the delivery charge for Bhavnagar?', answer: 'Delivery charges to Bhavnagar vary based on equipment quantity. Contact us on WhatsApp at +91 98252 14052 for an exact quote including delivery to your Bhavnagar venue.' },
+      { question: 'What is the delivery charge for Bhavnagar?', answer: 'Delivery charges to Bhavnagar vary based on equipment quantity. Contact us on WhatsApp at +91 97145 95111 for an exact quote including delivery to your Bhavnagar venue.' },
       { question: 'Do you serve the Bhavnagar diamond industry?', answer: 'Yes! We regularly provide AV equipment for diamond industry events, dealer meets, and corporate conferences in Bhavnagar. Our Corporate Conference Package at ₹8,370/day is popular among Bhavnagar businesses.' },
     ]
   },
@@ -192,7 +192,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Surat',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Surat — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Surat. Projectors, LED walls, sound systems & laptops with delivery & setup. Serving Gujarat since 2001. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Surat. Projectors, LED walls, sound systems & laptops with delivery & setup. Serving Gujarat since 2001. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Surat',
     intro: `Surat, Gujarat's diamond and textile capital, is one of the most dynamic cities we serve. Located approximately 450 km from our Rajkot headquarters, Fineline System & Services provides professional AV equipment rental in Surat for the city's booming corporate events, lavish weddings, and major trade exhibitions. Surat's textile and diamond industries host some of Gujarat's largest corporate events, dealer meets, and product launches, requiring top-quality projectors, LED walls, and sound systems. We serve venues across Surat — from the corporate hubs of Vesu and Adajan to the grand wedding venues along Dumas Road and the exhibition centers in the city. For Surat events, we schedule delivery a day in advance to ensure everything is set up and tested perfectly.`,
     deliveryTime: 'Pre-scheduled delivery (~450 km from Rajkot)',
@@ -209,7 +209,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Vadodara',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Vadodara — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Vadodara (Baroda). Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Vadodara (Baroda). Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Vadodara (Baroda)',
     intro: `Vadodara (Baroda), the cultural capital of Gujarat, is approximately 280 km from our Rajkot headquarters. Fineline System & Services provides professional AV equipment rental in Vadodara for corporate events, weddings, university functions, and cultural festivals. Vadodara is home to major corporations, MS University, and a vibrant cultural scene — all of which require professional AV equipment. We deliver projectors, LED walls, sound systems, and laptops to venues across Vadodara, from corporate offices on Productivity Road to wedding venues on Ajwa Road and university auditoriums. For Vadodara events, we schedule delivery a day in advance for seamless setup.`,
     deliveryTime: 'Next day delivery (~280 km from Rajkot)',
@@ -226,7 +226,7 @@ const cityPages: Record<string, CityData> = {
     city: 'Gandhidham',
     service: 'AV Equipment Rental',
     metaTitle: 'AV Equipment Rental in Gandhidham — Projectors, LED Screens, Sound Systems | Fineline',
-    metaDescription: 'Rent AV equipment in Gandhidham & Kutch. Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 98252 14052.',
+    metaDescription: 'Rent AV equipment in Gandhidham & Kutch. Projectors, LED walls, sound systems with delivery & setup. Trusted since 2001. Call +91 97145 95111.',
     h1: 'AV Equipment Rental in Gandhidham & Kutch',
     intro: `Gandhidham, the commercial hub of Kutch district, is approximately 250 km from our Rajkot headquarters. Fineline System & Services serves Gandhidham and the wider Kutch region with professional AV equipment rental for corporate events, weddings, and industrial functions. Gandhidham's port-related businesses, industrial units, and the vibrant Kutchi wedding culture drive demand for professional AV equipment. We deliver projectors, LED walls, sound systems, and laptops across Gandhidham, Adipur, and nearby areas with complete setup and technician support. The Kandla port area and industrial estates frequently need AV equipment for corporate presentations and safety training sessions.`,
     deliveryTime: 'Next day delivery (~250 km from Rajkot)',
@@ -331,7 +331,7 @@ export default async function CityPage({ params }: { params: Promise<{ citySlug:
 
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+              href={`https://wa.me/919714595111?text=${whatsappMessage}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-all shadow-lg"
@@ -342,11 +342,11 @@ export default async function CityPage({ params }: { params: Promise<{ citySlug:
               Get {cityData.city} Quote on WhatsApp
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 glass-panel text-white font-bold rounded-xl border border-white/20 hover:bg-white/10 transition-all"
             >
               <span className="material-symbols-outlined">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
         </div>
@@ -473,7 +473,7 @@ export default async function CityPage({ params }: { params: Promise<{ citySlug:
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+              href={`https://wa.me/919714595111?text=${whatsappMessage}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-green-600 font-bold rounded-lg hover:bg-gray-50 transition-all shadow-lg"
@@ -484,11 +484,11 @@ export default async function CityPage({ params }: { params: Promise<{ citySlug:
               Get {cityData.city} Quote on WhatsApp
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
             >
               <span className="material-symbols-outlined">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
         </div>

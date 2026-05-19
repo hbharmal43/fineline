@@ -276,7 +276,7 @@ export default function ServicesPage() {
                   </div>
 
                   <a
-                    href={`https://wa.me/919825214052?text=${encodeURIComponent(service.whatsappMessage)}`}
+                    href={`https://wa.me/919714595111?text=${encodeURIComponent(service.whatsappMessage)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full inline-flex items-center justify-center gap-2 px-6 py-4 bg-green-600 text-white font-bold rounded-lg hover:bg-green-700 transition-colors text-lg"
@@ -358,7 +358,7 @@ export default function ServicesPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`https://wa.me/919825214052?text=${encodeURIComponent('Hi, I want to book AV equipment for my event. Please share details.')}`}
+              href={`https://wa.me/919714595111?text=${encodeURIComponent('Hi, I want to book AV equipment for my event. Please share details.')}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-green-600 text-white font-bold rounded-lg hover:bg-green-700 transition-all shadow-lg"
@@ -367,18 +367,18 @@ export default function ServicesPage() {
               WhatsApp Us
             </a>
             <a
-              href="tel:+919825214052"
-              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
-            >
-              <span className="material-symbols-outlined">call</span>
-              +91 98252 14052
-            </a>
-            <a
               href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
             >
               <span className="material-symbols-outlined">call</span>
               +91 97145 95111
+            </a>
+            <a
+              href="tel:+919825214052"
+              className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 backdrop-blur-sm text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
+            >
+              <span className="material-symbols-outlined">call</span>
+              +91 98252 14052
             </a>
           </div>
         </div>

@@ -106,7 +106,7 @@ export default function HeroSection() {
                 {/* CTAs */}
                 <div className="flex flex-col sm:flex-row gap-4 mb-10">
                   <a
-                    href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+                    href={`https://wa.me/919714595111?text=${whatsappMessage}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group inline-flex items-center justify-center gap-3 px-8 py-4 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-all duration-300 shadow-lg shadow-green-500/30 hover:shadow-green-500/50 hover:-translate-y-1"
@@ -118,11 +118,11 @@ export default function HeroSection() {
                     <span className="material-symbols-outlined group-hover:translate-x-1 transition-transform">arrow_forward</span>
                   </a>
                   <a
-                    href="tel:+919825214052"
+                    href="tel:+919714595111"
                     className="group inline-flex items-center justify-center gap-3 px-8 py-4 glass-panel hover:bg-white/10 text-white font-semibold rounded-xl border border-white/10 hover:border-white/30 transition-all duration-300"
                   >
                     <span className="material-symbols-outlined text-fss-primary text-2xl">call</span>
-                    Call +91 98252 14052
+                    Call +91 97145 95111
                   </a>
                 </div>
 

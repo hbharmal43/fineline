@@ -230,7 +230,7 @@ export default function AboutPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+              href={`https://wa.me/919714595111?text=${whatsappMessage}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-green-500 text-white font-bold rounded-lg hover:bg-green-600 transition-all shadow-lg"
@@ -241,11 +241,11 @@ export default function AboutPage() {
               Chat With Us on WhatsApp
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-fss-primary text-white font-bold rounded-lg hover:bg-fss-primary-dark transition-all shadow-lg"
             >
               <span className="material-symbols-outlined">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
         </div>

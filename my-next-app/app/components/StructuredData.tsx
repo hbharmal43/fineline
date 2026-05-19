@@ -21,7 +21,7 @@ export default function StructuredData() {
       "latitude": "22.2952",
       "longitude": "70.7984"
     },
-    "telephone": ["+919825214052", "+919714595111"],
+    "telephone": ["+919714595111", "+919825214052"],
     "email": "info@finelinesystem.com",
     "priceRange": "₹500 - ₹50,000",
     "currenciesAccepted": "INR",

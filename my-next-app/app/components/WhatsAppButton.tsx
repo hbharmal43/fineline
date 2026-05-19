@@ -21,7 +21,7 @@ export default function WhatsAppButton() {
   const whatsappMessage = encodeURIComponent(
     'Hi Fineline, I need AV equipment for an event. Can you share details?'
   );
-  const whatsappLink = `https://wa.me/919825214052?text=${whatsappMessage}`;
+  const whatsappLink = `https://wa.me/919714595111?text=${whatsappMessage}`;
 
   return (
     <AnimatePresence>

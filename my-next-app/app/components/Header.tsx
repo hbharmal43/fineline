@@ -74,14 +74,14 @@ export default function Header() {
             {/* CTA Buttons */}
             <div className="hidden lg:flex items-center gap-3">
               <a
-                href="tel:+919825214052"
+                href="tel:+919714595111"
                 className="flex items-center gap-2 px-4 py-2 text-white hover:text-fss-primary text-sm font-medium transition-colors"
               >
                 <span className="material-symbols-outlined text-fss-primary text-lg">call</span>
-                <span className="hidden xl:inline">+91 98252 14052</span>
+                <span className="hidden xl:inline">+91 97145 95111</span>
               </a>
               <a
-                href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+                href={`https://wa.me/919714595111?text=${whatsappMessage}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 bg-fss-primary hover:bg-fss-primary-dark text-fss-dark-navy text-sm font-bold rounded-lg transition-all hover:-translate-y-0.5"
@@ -93,7 +93,7 @@ export default function Header() {
             {/* Mobile: Phone + Menu */}
             <div className="flex lg:hidden items-center gap-2">
               <a
-                href="tel:+919825214052"
+                href="tel:+919714595111"
                 className="w-10 h-10 flex items-center justify-center text-fss-primary"
                 aria-label="Call us"
               >
@@ -137,7 +137,7 @@ export default function Header() {
                 ))}
                 <div className="mt-3 pt-3 border-t border-white/10 flex flex-col gap-2">
                   <a
-                    href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+                    href={`https://wa.me/919714595111?text=${whatsappMessage}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full py-3 bg-green-500 text-white font-bold text-center rounded-lg hover:bg-green-600 transition-colors flex items-center justify-center gap-2"
@@ -149,12 +149,12 @@ export default function Header() {
                     Get Quote on WhatsApp
                   </a>
                   <a
-                    href="tel:+919825214052"
+                    href="tel:+919714595111"
                     className="w-full py-3 bg-fss-primary text-fss-dark-navy font-bold text-center rounded-lg hover:bg-fss-primary-dark transition-colors flex items-center justify-center gap-2"
                     onClick={() => setMobileMenuOpen(false)}
                   >
                     <span className="material-symbols-outlined">call</span>
-                    Call +91 98252 14052
+                    Call +91 97145 95111
                   </a>
                 </div>
               </nav>

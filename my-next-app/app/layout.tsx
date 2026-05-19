@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     default: "AV Equipment Rental in Rajkot & Gujarat | Projector, LED Screen, Sound System on Rent — Fineline System & Services",
     template: "%s | Fineline System & Services"
   },
-  description: "Rent projectors, LED screens, sound systems, laptops & more in Rajkot & all Gujarat. Full-service AV rental with delivery, setup & technician. Since 2001. Call +91 98252 14052",
+  description: "Rent projectors, LED screens, sound systems, laptops & more in Rajkot & all Gujarat. Full-service AV rental with delivery, setup & technician. Since 2001. Call +91 97145 95111",
   keywords: [
     "projector on rent in Rajkot",
     "LED screen rental Rajkot",

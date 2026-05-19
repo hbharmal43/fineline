@@ -191,7 +191,7 @@ export default function PackagesPage() {
                   {/* CTAs */}
                   <div className="flex flex-col sm:flex-row gap-3">
                     <a
-                      href={`https://wa.me/919825214052?text=${encodeURIComponent(pkg.whatsappText)}`}
+                      href={`https://wa.me/919714595111?text=${encodeURIComponent(pkg.whatsappText)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-green-600 text-white font-bold rounded-xl hover:bg-green-700 transition-colors text-sm"
@@ -202,7 +202,7 @@ export default function PackagesPage() {
                       Book This Package
                     </a>
                     <a
-                      href={`https://wa.me/919825214052?text=${encodeURIComponent(`Hi, I want to customize the ${pkg.name}. Please share options.`)}`}
+                      href={`https://wa.me/919714595111?text=${encodeURIComponent(`Hi, I want to customize the ${pkg.name}. Please share options.`)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex-1 inline-flex items-center justify-center gap-2 px-6 py-3.5 border-2 border-fss-neutral-200 text-fss-neutral-900 font-bold rounded-xl hover:border-fss-primary hover:text-fss-primary transition-colors text-sm"
@@ -244,7 +244,7 @@ export default function PackagesPage() {
 
           <p className="text-center text-fss-neutral-700 mt-8 text-sm">
             Need something not listed here?{' '}
-            <a href="https://wa.me/919825214052" target="_blank" rel="noopener noreferrer" className="text-fss-primary hover:underline font-semibold">
+            <a href="https://wa.me/919714595111" target="_blank" rel="noopener noreferrer" className="text-fss-primary hover:underline font-semibold">
               Ask us on WhatsApp
             </a>
           </p>
@@ -293,7 +293,7 @@ export default function PackagesPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://wa.me/919825214052?text=Hi%2C%20I%20need%20help%20choosing%20an%20AV%20rental%20package%20for%20my%20event"
+              href="https://wa.me/919714595111?text=Hi%2C%20I%20need%20help%20choosing%20an%20AV%20rental%20package%20for%20my%20event"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white text-green-600 font-bold rounded-lg hover:bg-gray-50 transition-all shadow-lg"
@@ -304,11 +304,11 @@ export default function PackagesPage() {
               Chat on WhatsApp
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 bg-white/10 text-white font-bold rounded-lg border-2 border-white hover:bg-white hover:text-fss-primary transition-all"
             >
               <span className="material-symbols-outlined">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
         </div>

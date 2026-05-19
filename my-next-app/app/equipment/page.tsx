@@ -85,7 +85,7 @@ const faqItems = [
   },
   {
     question: 'How do I book equipment?',
-    answer: 'The easiest way is through WhatsApp at +91 98252 14052. Simply tell us your event type, date, city, and equipment needs. We will send you a detailed quote within 30 minutes during business hours. You can also call us directly.',
+    answer: 'The easiest way is through WhatsApp at +91 97145 95111. Simply tell us your event type, date, city, and equipment needs. We will send you a detailed quote within 30 minutes during business hours. You can also call us directly.',
   },
   {
     question: 'Can I rent equipment in bulk for multi-day events?',
@@ -95,7 +95,7 @@ const faqItems = [
 
 function getWhatsAppLink(equipmentName: string) {
   const message = encodeURIComponent(`Hi, I want to rent ${equipmentName}. Please share details.`);
-  return `https://wa.me/919825214052?text=${message}`;
+  return `https://wa.me/919714595111?text=${message}`;
 }
 
 export default function EquipmentPage() {
@@ -241,7 +241,7 @@ export default function EquipmentPage() {
                 <div className="mt-6 pt-6 border-t border-fss-neutral-200">
                   <p className="text-sm text-fss-neutral-700 mb-3">Need help choosing?</p>
                   <a
-                    href="https://wa.me/919825214052?text=Hi%2C%20I%20need%20help%20choosing%20AV%20equipment%20for%20my%20event.%20Can%20you%20suggest%20the%20right%20setup%3F"
+                    href="https://wa.me/919714595111?text=Hi%2C%20I%20need%20help%20choosing%20AV%20equipment%20for%20my%20event.%20Can%20you%20suggest%20the%20right%20setup%3F"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-colors text-sm"
@@ -402,7 +402,7 @@ export default function EquipmentPage() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
             <a
-              href="https://wa.me/919825214052?text=Hi%2C%20I%20need%20a%20custom%20AV%20equipment%20package.%20Can%20you%20help%20me%20with%20a%20quote%3F"
+              href="https://wa.me/919714595111?text=Hi%2C%20I%20need%20a%20custom%20AV%20equipment%20package.%20Can%20you%20help%20me%20with%20a%20quote%3F"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 px-10 py-5 bg-green-500 hover:bg-green-600 text-white text-lg font-bold rounded-2xl transition-all shadow-2xl hover:shadow-green-500/50 hover:scale-105"
@@ -413,11 +413,11 @@ export default function EquipmentPage() {
               Get Custom Quote on WhatsApp
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-3 px-10 py-5 bg-white/10 hover:bg-white/20 text-white text-lg font-bold rounded-2xl border-2 border-white/30 hover:border-white/50 transition-all"
             >
               <span className="material-symbols-outlined text-2xl">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
 
@@ -473,7 +473,7 @@ export default function EquipmentPage() {
           <div className="text-center mt-10">
             <p className="text-fss-neutral-700 mb-4">Still have questions?</p>
             <a
-              href="https://wa.me/919825214052?text=Hi%2C%20I%20have%20a%20question%20about%20AV%20equipment%20rental."
+              href="https://wa.me/919714595111?text=Hi%2C%20I%20have%20a%20question%20about%20AV%20equipment%20rental."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-fss-primary text-white font-bold rounded-xl hover:bg-fss-primary-dark transition-colors"

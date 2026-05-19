@@ -87,7 +87,7 @@ const faqItems = [
   },
   {
     question: 'How do I book equipment?',
-    answer: 'The easiest way to book is through WhatsApp at +91 98252 14052. Simply tell us your event type, date, city, and equipment needs. We will send you a detailed quote within 30 minutes during business hours. You can also call us or fill out the form on our contact page.'
+    answer: 'The easiest way to book is through WhatsApp at +91 97145 95111. Simply tell us your event type, date, city, and equipment needs. We will send you a detailed quote within 30 minutes during business hours. You can also call us or fill out the form on our contact page.'
   },
 ];
 
@@ -167,7 +167,7 @@ export default function Home() {
                   </li>
                 </ul>
                 <a
-                  href={`https://wa.me/919825214052?text=${encodeURIComponent(pkg.whatsappText)}`}
+                  href={`https://wa.me/919714595111?text=${encodeURIComponent(pkg.whatsappText)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-green-500 hover:bg-green-600 text-white font-bold rounded-xl transition-colors text-sm"
@@ -346,7 +346,7 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-12">
             <a
-              href={`https://wa.me/919825214052?text=${whatsappMessage}`}
+              href={`https://wa.me/919714595111?text=${whatsappMessage}`}
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center justify-center gap-3 px-12 py-6 bg-green-500 hover:bg-green-600 text-white text-lg font-bold rounded-2xl transition-all shadow-2xl hover:shadow-green-500/50 hover:scale-105"
@@ -358,11 +358,11 @@ export default function Home() {
               <span className="material-symbols-outlined group-hover:translate-x-2 transition-transform">arrow_forward</span>
             </a>
             <a
-              href="tel:+919825214052"
+              href="tel:+919714595111"
               className="inline-flex items-center justify-center gap-3 px-12 py-6 glass-panel text-white text-lg font-bold rounded-2xl border-2 border-fss-primary/50 hover:border-fss-primary hover:bg-white/10 transition-all shadow-xl"
             >
               <span className="material-symbols-outlined text-2xl">call</span>
-              Call +91 98252 14052
+              Call +91 97145 95111
             </a>
           </div>
 
