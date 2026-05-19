@@ -5,9 +5,8 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: '*',
       allow: '/',
-      disallow: ['/api/', '/admin/'],
+      disallow: ['/api/'],
     },
-    sitemap: 'https://fineliness.com/sitemap.xml', // Replace with actual domain
+    sitemap: 'https://www.finelinesystem.com/sitemap.xml',
   };
 }
-
