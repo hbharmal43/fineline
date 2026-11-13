@@ -103,13 +103,13 @@ export default function HomeExperience() {
           <div className="relative z-10 max-w-[650px]">
             <p className="site-kicker">AV rental · Rajkot &amp; Gujarat</p>
             <h1 className="mt-7 text-[clamp(3rem,6.4vw,5.9rem)] font-bold leading-[0.93] tracking-[-0.065em]">
-              Clear sound.<br />
-              Sharp screens.<br />
-              <span className="text-fss-primary-dark">Every event covered.</span>
+              Bigger screens.<br />
+              Brighter visuals.<br />
+              <span className="text-fss-primary-dark">Every seat covered.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg leading-relaxed text-fss-neutral-700 sm:text-xl">
-              Equipment, setup, and experienced technical support for corporate programs,
-              celebrations, exhibitions, and institute events.
+              LED walls, projection, TVs, and video playback—planned, installed, and
+              supported for events across Rajkot and Gujarat.
             </p>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <a
@@ -137,8 +137,8 @@ export default function HomeExperience() {
             <div className="absolute -right-6 -top-6 h-32 w-32 bg-fss-primary sm:-right-8 sm:-top-8" />
             <div className="relative aspect-[4/5] overflow-hidden bg-fss-neutral-900 sm:aspect-[5/6]">
               <Image
-                src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=88&w=1600&auto=format&fit=crop"
-                alt="A professionally lit event stage with a large audience"
+                src="/equipment/indoor-led-wall.png"
+                alt="Large modular indoor LED video wall installed on an event stage"
                 fill
                 priority
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -147,10 +147,10 @@ export default function HomeExperience() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 flex items-end justify-between gap-5 p-5 text-white sm:p-7">
                 <div>
-                  <p className="text-xs font-bold uppercase tracking-[0.16em] text-fss-primary">On-site support</p>
-                  <p className="mt-2 max-w-xs text-lg font-semibold leading-snug">Tested before guests arrive. Supported while the program runs.</p>
+                  <p className="text-xs font-bold uppercase tracking-[0.16em] text-fss-primary">Video systems</p>
+                  <p className="mt-2 max-w-xs text-lg font-semibold leading-snug">Sized for the audience. Signal-tested before the program begins.</p>
                 </div>
-                <span className="material-symbols-outlined shrink-0 text-3xl text-fss-primary">settings_input_component</span>
+                <span className="material-symbols-outlined shrink-0 text-3xl text-fss-primary">video_settings</span>
               </div>
             </div>
             <div className="absolute right-4 top-4 z-10 bg-white px-5 py-4 shadow-[0_16px_40px_rgba(32,34,31,0.18)] sm:right-6 sm:top-6 sm:px-6">
